@@ -1,10 +1,3 @@
-export function foot(a: number) {
-	return a + 1
-}
-
-foot()
-
-
 class RemoteAuthentication {
   constructor(private readonly url: string) {
 
